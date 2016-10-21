@@ -1,0 +1,28 @@
+_repo: The-Rowley-Poems_13037
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chatterton, Thomas
+    alias: Rowley, Thomas
+    birthdate: 1752
+    deathdate: 1770
+    gutenberg_agent_id: '4793'
+    url: http://www.gutenberg.org/2009/agents/4793
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Chatterton
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2004-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 18th century'
+- !lcc 'PR'
+- !lcsh 'Literary forgeries and mystifications -- Early works to 1800'
+- GITenberg
+title: The Rowley Poems
+url: http://www.gutenberg.org/ebooks/13037
